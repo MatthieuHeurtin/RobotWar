@@ -1,0 +1,9 @@
+C:\Users\Matt\Desktop\Amsterdam\Git\RobotWars\RobotWars.Test\bin\Debug\RobotWars.Test.dll
+C:\Users\Matt\Desktop\Amsterdam\Git\RobotWars\RobotWars.Test\bin\Debug\RobotWars.Test.pdb
+C:\Users\Matt\Desktop\Amsterdam\Git\RobotWars\RobotWars.Test\bin\Debug\nunit.framework.dll
+C:\Users\Matt\Desktop\Amsterdam\Git\RobotWars\RobotWars.Test\bin\Debug\RobotWars.dll
+C:\Users\Matt\Desktop\Amsterdam\Git\RobotWars\RobotWars.Test\bin\Debug\RobotWars.pdb
+C:\Users\Matt\Desktop\Amsterdam\Git\RobotWars\RobotWars.Test\bin\Debug\nunit.framework.xml
+C:\Users\Matt\Desktop\Amsterdam\Git\RobotWars\RobotWars.Test\obj\Debug\RobotWars.Test.csprojResolveAssemblyReference.cache
+C:\Users\Matt\Desktop\Amsterdam\Git\RobotWars\RobotWars.Test\obj\Debug\RobotWars.Test.dll
+C:\Users\Matt\Desktop\Amsterdam\Git\RobotWars\RobotWars.Test\obj\Debug\RobotWars.Test.pdb

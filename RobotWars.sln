@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotWars", "RobotWars\RobotWars.csproj", "{DC4D78E9-CA14-4E0E-AE3B-28D384B57859}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotWarsGUI", "RobotWarsGUI\RobotWarsGUI.csproj", "{58DA2233-4E90-48E0-8144-AD185FAF13F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotWars.Test", "RobotWars.Test\RobotWars.Test.csproj", "{F8C553FC-1FEE-4C2E-BFD1-4A38025B0DE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotWarsGui.Test", "RobotWarsGui.Test\RobotWarsGui.Test.csproj", "{81E2C027-CA39-468E-B06A-529DA4669283}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC4D78E9-CA14-4E0E-AE3B-28D384B57859}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC4D78E9-CA14-4E0E-AE3B-28D384B57859}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC4D78E9-CA14-4E0E-AE3B-28D384B57859}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC4D78E9-CA14-4E0E-AE3B-28D384B57859}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58DA2233-4E90-48E0-8144-AD185FAF13F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58DA2233-4E90-48E0-8144-AD185FAF13F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58DA2233-4E90-48E0-8144-AD185FAF13F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58DA2233-4E90-48E0-8144-AD185FAF13F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8C553FC-1FEE-4C2E-BFD1-4A38025B0DE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8C553FC-1FEE-4C2E-BFD1-4A38025B0DE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8C553FC-1FEE-4C2E-BFD1-4A38025B0DE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8C553FC-1FEE-4C2E-BFD1-4A38025B0DE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81E2C027-CA39-468E-B06A-529DA4669283}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81E2C027-CA39-468E-B06A-529DA4669283}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81E2C027-CA39-468E-B06A-529DA4669283}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81E2C027-CA39-468E-B06A-529DA4669283}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

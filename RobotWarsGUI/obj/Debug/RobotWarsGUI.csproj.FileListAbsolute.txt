@@ -1,0 +1,38 @@
+c:\users\matt\documents\visual studio 2015\Projects\RobotWars\RobotWarsGUI\bin\Debug\RobotWarsGUI.exe.config
+c:\users\matt\documents\visual studio 2015\Projects\RobotWars\RobotWarsGUI\bin\Debug\RobotWarsGUI.exe
+c:\users\matt\documents\visual studio 2015\Projects\RobotWars\RobotWarsGUI\bin\Debug\RobotWarsGUI.pdb
+c:\users\matt\documents\visual studio 2015\Projects\RobotWars\RobotWarsGUI\obj\Debug\RobotWarsGUI.csprojResolveAssemblyReference.cache
+c:\users\matt\documents\visual studio 2015\Projects\RobotWars\RobotWarsGUI\obj\Debug\RobotWarsGUI.Properties.Resources.resources
+c:\users\matt\documents\visual studio 2015\Projects\RobotWars\RobotWarsGUI\obj\Debug\RobotWarsGUI.csproj.GenerateResource.Cache
+c:\users\matt\documents\visual studio 2015\Projects\RobotWars\RobotWarsGUI\obj\Debug\RobotWarsGUI.exe
+c:\users\matt\documents\visual studio 2015\Projects\RobotWars\RobotWarsGUI\obj\Debug\RobotWarsGUI.pdb
+c:\users\matt\documents\visual studio 2015\Projects\RobotWars\RobotWarsGUI\obj\Debug\RobotWarsGUI.View.MainView.resources
+c:\users\matt\documents\visual studio 2015\Projects\RobotWars\RobotWarsGUI\bin\Debug\View\Icones\MainViewIco.ico
+c:\users\matt\documents\visual studio 2015\Projects\RobotWars\RobotWarsGUI\bin\Debug\RobotWars.dll
+c:\users\matt\documents\visual studio 2015\Projects\RobotWars\RobotWarsGUI\bin\Debug\RobotWars.pdb
+C:\Users\Matt\Desktop\Amsterdam\Git\RobotWars\RobotWarsGUI\bin\Debug\RobotWarsGUI.exe.config
+C:\Users\Matt\Desktop\Amsterdam\Git\RobotWars\RobotWarsGUI\obj\Debug\RobotWarsGUI.exe
+C:\Users\Matt\Desktop\Amsterdam\Git\RobotWars\RobotWarsGUI\obj\Debug\RobotWarsGUI.pdb
+C:\Users\Matt\Desktop\Amsterdam\Git\RobotWars\RobotWarsGUI\obj\Debug\RobotWarsGUI.csprojResolveAssemblyReference.cache
+C:\Users\Matt\Desktop\Amsterdam\Git\RobotWars\RobotWarsGUI\obj\Debug\RobotWarsGUI.Properties.Resources.resources
+C:\Users\Matt\Desktop\Amsterdam\Git\RobotWars\RobotWarsGUI\obj\Debug\RobotWarsGUI.View.MainView.resources
+C:\Users\Matt\Desktop\Amsterdam\Git\RobotWars\RobotWarsGUI\obj\Debug\RobotWarsGUI.csproj.GenerateResource.Cache
+C:\Users\Matt\Desktop\Amsterdam\Git\RobotWars\RobotWarsGUI\bin\Debug\View\Icones\MainViewIco.ico
+C:\Users\Matt\Desktop\Amsterdam\Git\RobotWars\RobotWarsGUI\bin\Debug\RobotWarsGUI.exe
+C:\Users\Matt\Desktop\Amsterdam\Git\RobotWars\RobotWarsGUI\bin\Debug\RobotWarsGUI.pdb
+C:\Users\Matt\Desktop\Amsterdam\Git\RobotWars\RobotWarsGUI\bin\Debug\RobotWars.dll
+C:\Users\Matt\Desktop\Amsterdam\Git\RobotWars\RobotWarsGUI\bin\Debug\RobotWars.pdb
+C:\Users\matth\Documents\Old\RobotWars\RobotWarsGUI\bin\Debug\View\Icones\MainViewIco.ico
+C:\Users\matth\Documents\Old\RobotWars\RobotWarsGUI\bin\Debug\RobotWarsGUI.exe.config
+C:\Users\matth\Documents\Old\RobotWars\RobotWarsGUI\bin\Debug\RobotWarsGUI.exe
+C:\Users\matth\Documents\Old\RobotWars\RobotWarsGUI\bin\Debug\RobotWarsGUI.pdb
+C:\Users\matth\Documents\Old\RobotWars\RobotWarsGUI\bin\Debug\RobotWars.dll
+C:\Users\matth\Documents\Old\RobotWars\RobotWarsGUI\bin\Debug\RobotWars.pdb
+C:\Users\matth\Documents\Old\RobotWars\RobotWarsGUI\obj\Debug\RobotWarsGUI.csprojAssemblyReference.cache
+C:\Users\matth\Documents\Old\RobotWars\RobotWarsGUI\obj\Debug\RobotWarsGUI.Properties.Resources.resources
+C:\Users\matth\Documents\Old\RobotWars\RobotWarsGUI\obj\Debug\RobotWarsGUI.View.MainView.resources
+C:\Users\matth\Documents\Old\RobotWars\RobotWarsGUI\obj\Debug\RobotWarsGUI.csproj.GenerateResource.cache
+C:\Users\matth\Documents\Old\RobotWars\RobotWarsGUI\obj\Debug\RobotWarsGUI.csproj.CoreCompileInputs.cache
+C:\Users\matth\Documents\Old\RobotWars\RobotWarsGUI\obj\Debug\RobotWarsGUI.csproj.CopyComplete
+C:\Users\matth\Documents\Old\RobotWars\RobotWarsGUI\obj\Debug\RobotWarsGUI.exe
+C:\Users\matth\Documents\Old\RobotWars\RobotWarsGUI\obj\Debug\RobotWarsGUI.pdb

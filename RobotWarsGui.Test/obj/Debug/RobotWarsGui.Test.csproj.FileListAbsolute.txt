@@ -1,0 +1,13 @@
+C:\Users\Matt\Desktop\Amsterdam\Git\RobotWars\RobotWarsGui.Test\bin\Debug\View\Icones\MainViewIco.ico
+C:\Users\Matt\Desktop\Amsterdam\Git\RobotWars\RobotWarsGui.Test\bin\Debug\RobotWarsGui.Test.dll
+C:\Users\Matt\Desktop\Amsterdam\Git\RobotWars\RobotWarsGui.Test\bin\Debug\RobotWarsGui.Test.pdb
+C:\Users\Matt\Desktop\Amsterdam\Git\RobotWars\RobotWarsGui.Test\bin\Debug\nunit.framework.dll
+C:\Users\Matt\Desktop\Amsterdam\Git\RobotWars\RobotWarsGui.Test\bin\Debug\RobotWarsGUI.exe
+C:\Users\Matt\Desktop\Amsterdam\Git\RobotWars\RobotWarsGui.Test\bin\Debug\RobotWars.dll
+C:\Users\Matt\Desktop\Amsterdam\Git\RobotWars\RobotWarsGui.Test\bin\Debug\RobotWarsGUI.pdb
+C:\Users\Matt\Desktop\Amsterdam\Git\RobotWars\RobotWarsGui.Test\bin\Debug\nunit.framework.xml
+C:\Users\Matt\Desktop\Amsterdam\Git\RobotWars\RobotWarsGui.Test\bin\Debug\RobotWars.pdb
+C:\Users\Matt\Desktop\Amsterdam\Git\RobotWars\RobotWarsGui.Test\obj\Debug\RobotWarsGui.Test.csprojResolveAssemblyReference.cache
+C:\Users\Matt\Desktop\Amsterdam\Git\RobotWars\RobotWarsGui.Test\obj\Debug\RobotWarsGui.Test.dll
+C:\Users\Matt\Desktop\Amsterdam\Git\RobotWars\RobotWarsGui.Test\obj\Debug\RobotWarsGui.Test.pdb
+C:\Users\Matt\Desktop\Amsterdam\Git\RobotWars\RobotWarsGui.Test\bin\Debug\FileParser\InputsCase\StandardInput.txt

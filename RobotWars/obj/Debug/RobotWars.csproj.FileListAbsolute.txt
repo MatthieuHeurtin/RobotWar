@@ -1,0 +1,15 @@
+c:\users\matt\documents\visual studio 2015\Projects\RobotWars\RobotWars\bin\Debug\RobotWars.dll
+c:\users\matt\documents\visual studio 2015\Projects\RobotWars\RobotWars\bin\Debug\RobotWars.pdb
+c:\users\matt\documents\visual studio 2015\Projects\RobotWars\RobotWars\obj\Debug\RobotWars.csprojResolveAssemblyReference.cache
+c:\users\matt\documents\visual studio 2015\Projects\RobotWars\RobotWars\obj\Debug\RobotWars.dll
+c:\users\matt\documents\visual studio 2015\Projects\RobotWars\RobotWars\obj\Debug\RobotWars.pdb
+C:\Users\Matt\Desktop\Amsterdam\Git\RobotWars\RobotWars\obj\Debug\RobotWars.dll
+C:\Users\Matt\Desktop\Amsterdam\Git\RobotWars\RobotWars\obj\Debug\RobotWars.pdb
+C:\Users\Matt\Desktop\Amsterdam\Git\RobotWars\RobotWars\bin\Debug\RobotWars.dll
+C:\Users\Matt\Desktop\Amsterdam\Git\RobotWars\RobotWars\bin\Debug\RobotWars.pdb
+C:\Users\matth\Documents\Old\RobotWars\RobotWars\bin\Debug\RobotWars.dll
+C:\Users\matth\Documents\Old\RobotWars\RobotWars\bin\Debug\RobotWars.pdb
+C:\Users\matth\Documents\Old\RobotWars\RobotWars\obj\Debug\RobotWars.csprojAssemblyReference.cache
+C:\Users\matth\Documents\Old\RobotWars\RobotWars\obj\Debug\RobotWars.csproj.CoreCompileInputs.cache
+C:\Users\matth\Documents\Old\RobotWars\RobotWars\obj\Debug\RobotWars.dll
+C:\Users\matth\Documents\Old\RobotWars\RobotWars\obj\Debug\RobotWars.pdb
